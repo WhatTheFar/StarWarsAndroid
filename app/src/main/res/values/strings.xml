@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="slow">Slow</string>
+    <string name="fast">Fast</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+</resources>
